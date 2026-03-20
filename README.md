@@ -386,8 +386,7 @@ cp .env.example .env
 
 
 ## Team
-
-**Team Name:** TheResolvers  
+  
 
 | Name                     | Role         |
 |--------------------------|--------------|
