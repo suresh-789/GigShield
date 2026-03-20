@@ -358,17 +358,8 @@ cp .env.example .env
 
 ## 📱 Demo Video Script
 
-### Problem (20 seconds)
-*"Every day, millions of delivery workers in India risk their income. When it rains, when pollution spikes, when curfews hit—they lose 20-30% of their earnings with no protection. Traditional insurance doesn't exist for them."*
-
-### Solution (30 seconds)
-*"Introducing GigShield AI—the first AI-powered income protection for gig workers. Pay just ₹20 per week, and get instant payouts when weather, pollution, or restrictions prevent you from working. No paperwork. No waiting. Just protection."*
-
-### Demo Flow (40 seconds)
-*"Here's how it works: Register in 30 seconds, choose your weekly plan, and you're covered. Our AI monitors rain, AQI, and traffic 24/7. When conditions hit critical levels—boom—your payout arrives automatically in minutes."*
-
-### Tech + AI (30 seconds)
-*"We use machine learning to predict risks, detect fraud, and dynamically price your coverage. Our parametric triggers ensure fair, transparent payouts every single time."*
+Watch our Phase-1 demo here:
+https://youtu.be/EiVMLeVH87k
 
 ---
 
