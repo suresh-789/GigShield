@@ -384,16 +384,18 @@ cp .env.example .env
 
 ---
 
-## 📄 License
 
-MIT License - See LICENSE file for details.
+## Team
 
----
+**Team Name:** TheResolvers  
 
-## 🤝 Contact
-
-For questions or collaborations, reach out to the team.
-
+| Name                     | Role         |
+|--------------------------|--------------|
+| M.V Ashika Reddy         | Team Leader  |
+| K. Bonishira Akshaya     | Member       |
+| N. Meena Amrutha         | Member       |
+| S. Jaswanth              | Member       |
+| M.Suresh                 | Member       |
 ---
 
 *Built with ❤️ for India's Gig Economy*
