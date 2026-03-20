@@ -356,9 +356,9 @@ cp .env.example .env
 
 ---
 
-## 📱 Demo Video Script
+## 📱 Demo Video
 
-Watch our Phase-1 demo here:
+Watch our prototype here:
 https://youtu.be/EiVMLeVH87k
 
 ---
